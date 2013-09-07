@@ -37,3 +37,5 @@ Nothing is required initially, but somethings are needed eventually.
 * **.addEach( [ queued items ] )** - adds each element of the array to the end of the queue.
 * **.queue** - returns the current array of queued items.
 * **.pause** - returns either true or false if the queue is paused
+
+## License: Public Domain
